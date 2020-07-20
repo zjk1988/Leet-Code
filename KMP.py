@@ -1,7 +1,6 @@
 参考：
 https://www.cnblogs.com/yjiyjige/p/3263858.html
 https://blog.csdn.net/your_answer/article/details/79619406
-上面两个博客稍微有点错误，就是不匹配的时候会出不去循环
 class Solution:
     def strStr(self, s1: str, s2: str) -> int:
         i = 0
